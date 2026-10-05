@@ -15,3 +15,4 @@ docker run -d -p 80:80 raesene/bwapp
 ```
 
 and you should be able to go to <ip>/install.php to set up your instance.
+We are doing atest run with Qodo AI code review tool. let's see its outputs.
